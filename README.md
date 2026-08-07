@@ -144,8 +144,7 @@ pkg install git python
 
 02 — Clone
 
-git clone https://github.com/USERNAME/local-otp-lab.git
-cd local-otp-lab
+git clone https://github.com/balqamarabaetia/local-otp-lab.git
 
 03 — Execute
 
