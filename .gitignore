@@ -1,0 +1,4 @@
+otp_test.log
+__pycache__/
+*.pyc
+.env
